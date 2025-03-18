@@ -13,3 +13,6 @@ var myVar = "Hello, world!";
 ``` python
 print('skills for communicate using markdown')
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
